@@ -10,10 +10,11 @@
 		"@babel/node": "^7.7.4",
 		"@babel/preset-env": "^7.7.4",
 		"babel-node": "^0.0.1-security",
+		"dotenv": "^8.2.0",
 		"graphql-yoga": "^1.18.3"
 	},
 	"devDependencies": {
-		"babel-cli": "^6.26.0",
+		"@babel/cli": "^7.7.4",
 		"nodemon": "^2.0.1"
 	},
 	"scripts": {
