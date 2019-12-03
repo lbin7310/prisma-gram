@@ -27,6 +27,7 @@
 		"prettier": "^1.19.1"
 	},
 	"scripts": {
+		"deploy": "prisma deploy",
 		"dev": "nodemon --exec babel-node src/server.js"
 	}
 }
