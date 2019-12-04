@@ -11,7 +11,7 @@ export default {
         const token = generateToken(user.id);
         return token;
       }
-      return Error("Wrong email/secret conviation");
+      return Error("Wrong email/secret combination");
     }
   }
 };
